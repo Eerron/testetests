@@ -1,0 +1,78 @@
+body{background-color:#C6D3D5;}
+.Info1{text-align: right;}
+
+h1{text-align: center;
+color: #0A100D;}
+
+.test1{height: 300px;
+width: 800px;}
+.test2{height: 300px;
+width: 800px;}
+
+.Info1{margin-left: 53%;
+margin-right: 1%;}
+
+.test2{margin-left: 757px;}
+
+.Info2{text-align: left;}
+.Info2{margin-right: 52%;}
+
+.test3{width: 49%;
+margin-right: 50%;}
+.test4{width: 49%;
+margin-left: 50%;}
+
+.test4{margin-top: -49%;}
+
+
+.love{margin-right: 50%;}
+.hate{margin-left: 50%;}
+.love{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+.hate{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+
+.Info1{background-color: #79B5B9;}
+.Info2{background-color: #8A2E31;}
+
+.test2{margin-top: 7%;}
+
+.about{background-color: #775576;}
+
+.Info1{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+.Info2{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-left: 1%; }
+
+.hello{width: 4in;}
+
+.love{margin-top: 20%;}
+.hate{margin-top: -3%;}
+
+.btn-primary{
+width: 2in;}
+.btn-secondary{width: 2in;}
+.btn-success{width: 2in;}
+.btn-danger{width: 2in;}
+.btn-warning{width: 2in;}
+.btn-info{width: 2in;}
+
+h1{text-size-adjust: 50%;}
+.btn{margin-top: 19%;
+
+margin-left: 0.55in;}
+
+p{font-size:x-large ;
+;}
+.lkht{margin-top: 5%; }
+
+.linksbtn {background-color:#775576 1;}
+.Info2{margin-top: -2.5%;}
+.btn{font-size: xx-large; margin-top: 2%;
+background-color:#79B5B9; color: white;}
+.love{margin-top: 5%;}
+.love{background-color:#775576;}
+.hate{background-color: #775576; margin-top:-3.6%;}
+.test3{margin-left: 1%;}
+.box4{background-color: white;}
+.des{text-align: center;
+background-color:#8A2E31;
+font-size: large;}
